@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "JC49TAZ4W9.org.ScienceApps.MusselIDorg.ScienceApps.MusselID"
+    version     = "2.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>MusselID</name>
+
+  <description>
+      A freshwater mussel identification application for the United States
+  </description>
+
+  <author href="https://www.scienceapps.org" email="support@scienceapps.org">
+      ScienceApps
+  </author>
+  <preference name="phonegap-version" value="cli-8.1.1" />
+  
+  <platform name="ios">
+  
+		<icon src="/res/ios/40.png" width="40" height="40" />
+		<icon src="/res/ios/76.png" width="76" height="76" />
+        <icon src="/res/ios/180.png" width="180" height="180" />
+		<icon src="/res/ios/120.png" width="120" height="120" />
+		<icon src="/res/ios/152.png" width="152" height="152" />
+		<icon src="/res/ios/167.png" width="167" height="167" />
+        <icon src="/res/ios/1024.png" width="1024" height="1024" /> 
+		
+        <splash src="/res/splash/ios/Default@2x~universal~anyany.png" />
+		
+		</platform>
+</widget>
